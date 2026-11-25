@@ -6,6 +6,16 @@ from .verification import manual_d2f_dy2, manual_d2f_dx2
 from functools import cache
 import logging
 
+
+class MatrixManager(object):
+    """
+    Matrix Manager to handle fast loading of already developed matrix.
+
+    """
+
+    def __init__(self, m, n):
+        pass
+
 @cache
 def integral_sin(z, h, m, L):
     return L * (math.cos((np.pi * h * m * z)/L) - math.cos((np.pi * h * m * (z+1)) /L)) / (np.pi * m)
@@ -35,7 +45,6 @@ def calculate_u_x_y(x,
             c_m_n = coefficients[(m_val,n_val)]
             res += c_m_n * math.sin((m_val * x * np.pi) / L_x) * math.sin((n_val * y * np.pi) / L_y)
     return res
-
 
 
 def create_two_dimensional_function(h: float,
@@ -69,6 +78,7 @@ def create_two_dimensional_function(h: float,
             [............n..............]
 
     TODO: Lots of this can be precomputed.
+    TODO: Look to refactor this function.
 
     """
 
