@@ -153,6 +153,22 @@ def sin_integral(a: float, b: float, denom: float, n: int):
     return (denom / (n * np.pi)) * (np.cos((n * np.pi * a) / denom) - np.cos((n * np.pi * b) / denom))
 
 
+def calculate_modified_grid(original_problem, u_sol: Callable):
+
+    m, n = original_problem.grid.shape
+    mod_grid = np.zeros((m,n), dtype=np.float64)
+
+    for i in range(m):
+        for j in range(n):
+            logging.debug(f"Calculating Integral for Index {i} and index {j}".format(i=i, j=j))
+            val, x_bounds, y_bounds = original_problem.get_value(i, j)
+            x_low, x_high = x_bounds
+            y_low, y_high = y_bounds
+            integral = calculate_double_integral(u_sol, x_low, y_low, x_high, y_high, method="quick")
+            mod_grid[i,j] = original_problem.grid[i,j] - integral
+
+    return mod_grid
+
 def calculate_double_integral(func, x_low, x_high, y_low, y_high, method="quick"):
 
     if method == "quad":
@@ -162,23 +178,6 @@ def calculate_double_integral(func, x_low, x_high, y_low, y_high, method="quick"
         return func((x_high + x_low) / 2, (y_high + y_low) / 2)
 
 
-
-
-def calculate_modified_grid(original_problem, u_sol: Callable):
-
-    # Use Laplace Solution to modify the grid.
-    m, n = original_problem.grid.shape
-    mod_grid = original_problem.grid.copy()
-    for i in range(m):
-        for j in range(n):
-            logging.debug(f"Calculating Integral for Index {i} and index {j}".format(i=i, j=j))
-            val, x_bounds, y_bounds = original_problem.get_value(i, j)
-            x_low, x_high = x_bounds
-            y_low, y_high = y_bounds
-            integral = calculate_double_integral(u_sol, x_low, y_low, x_high, y_high)
-            mod_grid[i][j] = mod_grid[i][j] - integral
-
-    return mod_grid
 
 
 class OriginalProblem(object):
@@ -479,23 +478,6 @@ class CalculusOfVariationsProblem(object):
         self.modified_grid = modified_grid
 
 
-def calculate_modified_grid(original_problem, u_sol: Callable):
-
-    # Use Laplace Solution to modify the grid.
-    m, n = original_problem.grid.shape
-    mod_grid = original_problem.grid.copy()
-    for i in range(m):
-        for j in range(n):
-            logging.debug(f"Calculating Integral for Index {i} and index {j}".format(i=i, j=j))
-            val, x_bounds, y_bounds = original_problem.get_value(i, j)
-            x_low, x_high = x_bounds
-            y_low, y_high = y_bounds
-            integral = calculate_double_integral(u_sol, x_low, y_low, x_high, y_high, method="quick")
-            mod_grid[i][j] = mod_grid[i][j] - integral
-
-    return mod_grid
-
-
 def calculate_laplace_solution(grid = None,
                                h=None,
                                number_of_frequencies = 200,
@@ -503,11 +485,7 @@ def calculate_laplace_solution(grid = None,
                                N=20):
 
     if grid is None and h is None:
-        # Generate data
-        grid_size = 100
-        grid = generate_grid(grid_size)
-        h = 0.1
-
+        raise ValueError("Either grid or h must be provided")
 
 
     boundary = Boundary(low_h=partial(low_h, grid, h),
@@ -533,6 +511,7 @@ def calculate_laplace_solution(grid = None,
 def calculate_laplace_and_grid(grid = None, h=None, M=None, N=None):
 
     u_sol, original_problem = calculate_laplace_solution(grid=grid, h=h, M=M, N=N)
+
     modified_grid = calculate_modified_grid(original_problem, u_sol)
     return u_sol, modified_grid
 

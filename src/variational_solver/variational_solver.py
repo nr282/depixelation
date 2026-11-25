@@ -84,6 +84,7 @@ def create_two_dimensional_function(h: float,
     B = np.zeros(size)
 
     for r in range(size):
+        logging.info(f"Row is provided by: {r}")
         x, y = r // grid_m, r % grid_m
         assert(type(x) == int)
         assert(type(y) == int)
@@ -96,7 +97,7 @@ def create_two_dimensional_function(h: float,
                         index = x_lam * grid_m + y_lam
                         A[r, index] += coefficient * integral_sin(x_lam,h,m,L_x) * integral_sin(y_lam,h,n,L_y) * integral_sin(x,h,m,L_x) * integral_sin(y,h,n,L_y)
 
-
+    logging.info("Solving the linear system.")
     lambdas = np.linalg.solve(A, B)
 
     res = 0.0

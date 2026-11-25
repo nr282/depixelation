@@ -19,7 +19,6 @@ def verification_of_laplacian(func: Callable[[float, float], float],
                               Y: float,
                               h: float,
                               lambdas: np.ndarray = None,
-                              f = lambda x,y: 0,
                               grid: np.ndarray = None,
                               M: int = None,
                               N: int = None,
@@ -47,9 +46,6 @@ def verification_of_laplacian(func: Callable[[float, float], float],
                 if abs(abs(del_calc) - lambda_val) > epsilon:
                     print(f"Solver has failed. The del calc is {del_calc} "
                           f"and the lambdas is {lambda_val}")
-            else:
-                if abs(abs(del_calc) - f(x,y)) > epsilon:
-                    print(f"Solver has failed. The del calc is {del_calc}")
 
     grid_m, grid_n = grid.shape
     values_close = True

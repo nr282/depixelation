@@ -130,7 +130,7 @@ def depixelation_with_boundary_correction():
     img = Image(name,
                 "pixelated_image.png")
 
-    M, N = 20, 20
+    M, N = 10, 10
     sub_image = img.cv2_image[:M, :N]
     img = Image("pixelated_sub_image", image=sub_image)
     engine = DepixelationEngine("depixelate", 10)
@@ -172,8 +172,8 @@ class DepixelationEngine(object):
         """
 
         # Frequencies for the transform.
-        M = 50
-        N = 50
+        M = 20
+        N = 20
 
         #Setup spacing
         h=1
@@ -195,6 +195,8 @@ class DepixelationEngine(object):
         for ch in range(num):
             grid = image.get_cv2_image()[:, :, ch]
             func, mod_grid = calculate_laplace_and_grid(grid, h, M, N)
+
+
             L_x = image.x * h
             L_y = image.y * h
 
@@ -205,8 +207,9 @@ class DepixelationEngine(object):
                                                              N,
                                                              mod_grid)
 
+
             if verification:
-                values_are_close = verification_of_laplacian(u_sol, L_x, L_y, h, lambdas, func, grid, M, N)
+                values_are_close = verification_of_laplacian(u_sol, L_x, L_y, h, lambdas, mod_grid, M, N)
 
             calculate_new_grid(new_image,
                                func,
