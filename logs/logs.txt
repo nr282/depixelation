@@ -1,0 +1,1811 @@
+DEBUG:root:Calculating Integral for Index 0 and index 0
+DEBUG:root:Calculating Integral for Index 0 and index 1
+DEBUG:root:Calculating Integral for Index 0 and index 2
+DEBUG:root:Calculating Integral for Index 0 and index 3
+DEBUG:root:Calculating Integral for Index 0 and index 4
+DEBUG:root:Calculating Integral for Index 0 and index 5
+DEBUG:root:Calculating Integral for Index 0 and index 6
+DEBUG:root:Calculating Integral for Index 0 and index 7
+DEBUG:root:Calculating Integral for Index 0 and index 8
+DEBUG:root:Calculating Integral for Index 0 and index 9
+DEBUG:root:Calculating Integral for Index 1 and index 0
+DEBUG:root:Calculating Integral for Index 1 and index 1
+DEBUG:root:Calculating Integral for Index 1 and index 2
+DEBUG:root:Calculating Integral for Index 1 and index 3
+DEBUG:root:Calculating Integral for Index 1 and index 4
+DEBUG:root:Calculating Integral for Index 1 and index 5
+DEBUG:root:Calculating Integral for Index 1 and index 6
+DEBUG:root:Calculating Integral for Index 1 and index 7
+DEBUG:root:Calculating Integral for Index 1 and index 8
+DEBUG:root:Calculating Integral for Index 1 and index 9
+DEBUG:root:Calculating Integral for Index 2 and index 0
+DEBUG:root:Calculating Integral for Index 2 and index 1
+DEBUG:root:Calculating Integral for Index 2 and index 2
+DEBUG:root:Calculating Integral for Index 2 and index 3
+DEBUG:root:Calculating Integral for Index 2 and index 4
+DEBUG:root:Calculating Integral for Index 2 and index 5
+DEBUG:root:Calculating Integral for Index 2 and index 6
+DEBUG:root:Calculating Integral for Index 2 and index 7
+DEBUG:root:Calculating Integral for Index 2 and index 8
+DEBUG:root:Calculating Integral for Index 2 and index 9
+DEBUG:root:Calculating Integral for Index 3 and index 0
+DEBUG:root:Calculating Integral for Index 3 and index 1
+DEBUG:root:Calculating Integral for Index 3 and index 2
+DEBUG:root:Calculating Integral for Index 3 and index 3
+DEBUG:root:Calculating Integral for Index 3 and index 4
+DEBUG:root:Calculating Integral for Index 3 and index 5
+DEBUG:root:Calculating Integral for Index 3 and index 6
+DEBUG:root:Calculating Integral for Index 3 and index 7
+DEBUG:root:Calculating Integral for Index 3 and index 8
+DEBUG:root:Calculating Integral for Index 3 and index 9
+DEBUG:root:Calculating Integral for Index 4 and index 0
+DEBUG:root:Calculating Integral for Index 4 and index 1
+DEBUG:root:Calculating Integral for Index 4 and index 2
+DEBUG:root:Calculating Integral for Index 4 and index 3
+DEBUG:root:Calculating Integral for Index 4 and index 4
+DEBUG:root:Calculating Integral for Index 4 and index 5
+DEBUG:root:Calculating Integral for Index 4 and index 6
+DEBUG:root:Calculating Integral for Index 4 and index 7
+DEBUG:root:Calculating Integral for Index 4 and index 8
+DEBUG:root:Calculating Integral for Index 4 and index 9
+DEBUG:root:Calculating Integral for Index 5 and index 0
+DEBUG:root:Calculating Integral for Index 5 and index 1
+DEBUG:root:Calculating Integral for Index 5 and index 2
+DEBUG:root:Calculating Integral for Index 5 and index 3
+DEBUG:root:Calculating Integral for Index 5 and index 4
+DEBUG:root:Calculating Integral for Index 5 and index 5
+DEBUG:root:Calculating Integral for Index 5 and index 6
+DEBUG:root:Calculating Integral for Index 5 and index 7
+DEBUG:root:Calculating Integral for Index 5 and index 8
+DEBUG:root:Calculating Integral for Index 5 and index 9
+DEBUG:root:Calculating Integral for Index 6 and index 0
+DEBUG:root:Calculating Integral for Index 6 and index 1
+DEBUG:root:Calculating Integral for Index 6 and index 2
+DEBUG:root:Calculating Integral for Index 6 and index 3
+DEBUG:root:Calculating Integral for Index 6 and index 4
+DEBUG:root:Calculating Integral for Index 6 and index 5
+DEBUG:root:Calculating Integral for Index 6 and index 6
+DEBUG:root:Calculating Integral for Index 6 and index 7
+DEBUG:root:Calculating Integral for Index 6 and index 8
+DEBUG:root:Calculating Integral for Index 6 and index 9
+DEBUG:root:Calculating Integral for Index 7 and index 0
+DEBUG:root:Calculating Integral for Index 7 and index 1
+DEBUG:root:Calculating Integral for Index 7 and index 2
+DEBUG:root:Calculating Integral for Index 7 and index 3
+DEBUG:root:Calculating Integral for Index 7 and index 4
+DEBUG:root:Calculating Integral for Index 7 and index 5
+DEBUG:root:Calculating Integral for Index 7 and index 6
+DEBUG:root:Calculating Integral for Index 7 and index 7
+DEBUG:root:Calculating Integral for Index 7 and index 8
+DEBUG:root:Calculating Integral for Index 7 and index 9
+DEBUG:root:Calculating Integral for Index 8 and index 0
+DEBUG:root:Calculating Integral for Index 8 and index 1
+DEBUG:root:Calculating Integral for Index 8 and index 2
+DEBUG:root:Calculating Integral for Index 8 and index 3
+DEBUG:root:Calculating Integral for Index 8 and index 4
+DEBUG:root:Calculating Integral for Index 8 and index 5
+DEBUG:root:Calculating Integral for Index 8 and index 6
+DEBUG:root:Calculating Integral for Index 8 and index 7
+DEBUG:root:Calculating Integral for Index 8 and index 8
+DEBUG:root:Calculating Integral for Index 8 and index 9
+DEBUG:root:Calculating Integral for Index 9 and index 0
+DEBUG:root:Calculating Integral for Index 9 and index 1
+DEBUG:root:Calculating Integral for Index 9 and index 2
+DEBUG:root:Calculating Integral for Index 9 and index 3
+DEBUG:root:Calculating Integral for Index 9 and index 4
+DEBUG:root:Calculating Integral for Index 9 and index 5
+DEBUG:root:Calculating Integral for Index 9 and index 6
+DEBUG:root:Calculating Integral for Index 9 and index 7
+DEBUG:root:Calculating Integral for Index 9 and index 8
+DEBUG:root:Calculating Integral for Index 9 and index 9
+INFO:root:Calculating the two dimensional integral constrained function.
+INFO:root:Row is provided by: 0
+INFO:root:Row is provided by: 1
+INFO:root:Row is provided by: 2
+INFO:root:Row is provided by: 3
+INFO:root:Row is provided by: 4
+INFO:root:Row is provided by: 5
+INFO:root:Row is provided by: 6
+INFO:root:Row is provided by: 7
+INFO:root:Row is provided by: 8
+INFO:root:Row is provided by: 9
+INFO:root:Row is provided by: 10
+INFO:root:Row is provided by: 11
+INFO:root:Row is provided by: 12
+INFO:root:Row is provided by: 13
+INFO:root:Row is provided by: 14
+INFO:root:Row is provided by: 15
+INFO:root:Row is provided by: 16
+INFO:root:Row is provided by: 17
+INFO:root:Row is provided by: 18
+INFO:root:Row is provided by: 19
+INFO:root:Row is provided by: 20
+INFO:root:Row is provided by: 21
+INFO:root:Row is provided by: 22
+INFO:root:Row is provided by: 23
+INFO:root:Row is provided by: 24
+INFO:root:Row is provided by: 25
+INFO:root:Row is provided by: 26
+INFO:root:Row is provided by: 27
+INFO:root:Row is provided by: 28
+INFO:root:Row is provided by: 29
+INFO:root:Row is provided by: 30
+INFO:root:Row is provided by: 31
+INFO:root:Row is provided by: 32
+INFO:root:Row is provided by: 33
+INFO:root:Row is provided by: 34
+INFO:root:Row is provided by: 35
+INFO:root:Row is provided by: 36
+INFO:root:Row is provided by: 37
+INFO:root:Row is provided by: 38
+INFO:root:Row is provided by: 39
+INFO:root:Row is provided by: 40
+INFO:root:Row is provided by: 41
+INFO:root:Row is provided by: 42
+INFO:root:Row is provided by: 43
+INFO:root:Row is provided by: 44
+INFO:root:Row is provided by: 45
+INFO:root:Row is provided by: 46
+INFO:root:Row is provided by: 47
+INFO:root:Row is provided by: 48
+INFO:root:Row is provided by: 49
+INFO:root:Row is provided by: 50
+INFO:root:Row is provided by: 51
+INFO:root:Row is provided by: 52
+INFO:root:Row is provided by: 53
+INFO:root:Row is provided by: 54
+INFO:root:Row is provided by: 55
+INFO:root:Row is provided by: 56
+INFO:root:Row is provided by: 57
+INFO:root:Row is provided by: 58
+INFO:root:Row is provided by: 59
+INFO:root:Row is provided by: 60
+INFO:root:Row is provided by: 61
+INFO:root:Row is provided by: 62
+INFO:root:Row is provided by: 63
+INFO:root:Row is provided by: 64
+INFO:root:Row is provided by: 65
+INFO:root:Row is provided by: 66
+INFO:root:Row is provided by: 67
+INFO:root:Row is provided by: 68
+INFO:root:Row is provided by: 69
+INFO:root:Row is provided by: 70
+INFO:root:Row is provided by: 71
+INFO:root:Row is provided by: 72
+INFO:root:Row is provided by: 73
+INFO:root:Row is provided by: 74
+INFO:root:Row is provided by: 75
+INFO:root:Row is provided by: 76
+INFO:root:Row is provided by: 77
+INFO:root:Row is provided by: 78
+INFO:root:Row is provided by: 79
+INFO:root:Row is provided by: 80
+INFO:root:Row is provided by: 81
+INFO:root:Row is provided by: 82
+INFO:root:Row is provided by: 83
+INFO:root:Row is provided by: 84
+INFO:root:Row is provided by: 85
+INFO:root:Row is provided by: 86
+INFO:root:Row is provided by: 87
+INFO:root:Row is provided by: 88
+INFO:root:Row is provided by: 89
+INFO:root:Row is provided by: 90
+INFO:root:Row is provided by: 91
+INFO:root:Row is provided by: 92
+INFO:root:Row is provided by: 93
+INFO:root:Row is provided by: 94
+INFO:root:Row is provided by: 95
+INFO:root:Row is provided by: 96
+INFO:root:Row is provided by: 97
+INFO:root:Row is provided by: 98
+INFO:root:Row is provided by: 99
+INFO:root:Solving the linear system.
+Grid Cell I: 0 and J: 0
+Calculated Integral: 0.6898054526249652
+Actual Integral: 0.6898054526249666
+Error:  1.4432899320127035e-15
+Grid Cell I: 0 and J: 1
+Calculated Integral: 1.4359065152180772e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  1.4821043697876846e-16
+Grid Cell I: 0 and J: 2
+Calculated Integral: -2.870259910824069e-14
+Actual Integral: -2.842170943040401e-14
+Error:  2.8088967783668206e-16
+Grid Cell I: 0 and J: 3
+Calculated Integral: 1.4272457727389914e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  6.160301218791076e-17
+Grid Cell I: 0 and J: 4
+Calculated Integral: -1.439086869825133e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.8001398304932567e-16
+Grid Cell I: 0 and J: 5
+Calculated Integral: -1.398866674995065e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.221879652513541e-16
+Grid Cell I: 0 and J: 6
+Calculated Integral: -5.900622092986588e-17
+Actual Integral: 0.0
+Error:  5.900622092986588e-17
+Grid Cell I: 0 and J: 7
+Calculated Integral: -2.211585819924237e-17
+Actual Integral: 0.0
+Error:  2.211585819924237e-17
+Grid Cell I: 0 and J: 8
+Calculated Integral: -2.0985959922741477e-16
+Actual Integral: 0.0
+Error:  2.0985959922741477e-16
+Grid Cell I: 0 and J: 9
+Calculated Integral: 1.657786943982107e-16
+Actual Integral: 0.0
+Error:  1.657786943982107e-16
+Grid Cell I: 1 and J: 0
+Calculated Integral: 1.4146669946590862e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  6.418476861114186e-17
+Grid Cell I: 1 and J: 1
+Calculated Integral: -2.8462882007904144e-14
+Actual Integral: -2.842170943040401e-14
+Error:  4.117257750013703e-17
+Grid Cell I: 1 and J: 2
+Calculated Integral: 1.4560523468355735e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  3.4966875315373125e-16
+Grid Cell I: 1 and J: 3
+Calculated Integral: -1.4498701921667433e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.878472064654289e-16
+Grid Cell I: 1 and J: 4
+Calculated Integral: -1.4083027702582436e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.2782701261956735e-16
+Grid Cell I: 1 and J: 5
+Calculated Integral: -4.757254669135371e-17
+Actual Integral: 0.0
+Error:  4.757254669135371e-17
+Grid Cell I: 1 and J: 6
+Calculated Integral: -2.1659347145341705e-17
+Actual Integral: 0.0
+Error:  2.1659347145341705e-17
+Grid Cell I: 1 and J: 7
+Calculated Integral: -1.1061755306262611e-16
+Actual Integral: 0.0
+Error:  1.1061755306262611e-16
+Grid Cell I: 1 and J: 8
+Calculated Integral: -2.5685638850776217e-17
+Actual Integral: 0.0
+Error:  2.5685638850776217e-17
+Grid Cell I: 1 and J: 9
+Calculated Integral: 1.4256315291118497e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  4.546057591649352e-17
+Grid Cell I: 2 and J: 0
+Calculated Integral: -2.8442092431246735e-14
+Actual Integral: -2.842170943040401e-14
+Error:  2.0383000842727483e-17
+Grid Cell I: 2 and J: 1
+Calculated Integral: 1.4413275260805047e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  2.0242054560304368e-16
+Grid Cell I: 2 and J: 2
+Calculated Integral: -1.4326017314710698e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.1516259950869467e-16
+Grid Cell I: 2 and J: 3
+Calculated Integral: -1.4035005593154327e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.7584912204767628e-16
+Grid Cell I: 2 and J: 4
+Calculated Integral: 1.650909565845994e-17
+Actual Integral: 0.0
+Error:  1.650909565845994e-17
+Grid Cell I: 2 and J: 5
+Calculated Integral: 1.3597160498433187e-16
+Actual Integral: 0.0
+Error:  1.3597160498433187e-16
+Grid Cell I: 2 and J: 6
+Calculated Integral: 2.6212096297274366e-18
+Actual Integral: 0.0
+Error:  2.6212096297274366e-18
+Grid Cell I: 2 and J: 7
+Calculated Integral: 1.33106727798481e-16
+Actual Integral: 0.0
+Error:  1.33106727798481e-16
+Grid Cell I: 2 and J: 8
+Calculated Integral: 1.4186875688921267e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  2.3979026280736412e-17
+Grid Cell I: 2 and J: 9
+Calculated Integral: 2.324597220444702e-17
+Actual Integral: 0.0
+Error:  2.324597220444702e-17
+Grid Cell I: 3 and J: 0
+Calculated Integral: 1.4387796509751638e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  1.7694179454963432e-16
+Grid Cell I: 3 and J: 1
+Calculated Integral: -1.43812370866081e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.7038237140609702e-16
+Grid Cell I: 3 and J: 2
+Calculated Integral: -1.4113376469566084e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  9.747824563591939e-17
+Grid Cell I: 3 and J: 3
+Calculated Integral: -1.8341587912373575e-16
+Actual Integral: 0.0
+Error:  1.8341587912373575e-16
+Grid Cell I: 3 and J: 4
+Calculated Integral: 1.209049534954868e-17
+Actual Integral: 0.0
+Error:  1.209049534954868e-17
+Grid Cell I: 3 and J: 5
+Calculated Integral: 5.328189286298252e-17
+Actual Integral: 0.0
+Error:  5.328189286298252e-17
+Grid Cell I: 3 and J: 6
+Calculated Integral: 6.7940446524818426e-18
+Actual Integral: 0.0
+Error:  6.7940446524818426e-18
+Grid Cell I: 3 and J: 7
+Calculated Integral: 1.4134244158543098e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  7.661055665890524e-17
+Grid Cell I: 3 and J: 8
+Calculated Integral: 1.1600116212647643e-17
+Actual Integral: 0.0
+Error:  1.1600116212647643e-17
+Grid Cell I: 3 and J: 9
+Calculated Integral: -4.165284518123022e-17
+Actual Integral: 0.0
+Error:  4.165284518123022e-17
+Grid Cell I: 4 and J: 0
+Calculated Integral: -1.4429565398446642e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.1871068324463838e-16
+Grid Cell I: 4 and J: 1
+Calculated Integral: -1.4144908118060573e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  6.594659714143081e-17
+Grid Cell I: 4 and J: 2
+Calculated Integral: -4.172928990471992e-17
+Actual Integral: 0.0
+Error:  4.172928990471992e-17
+Grid Cell I: 4 and J: 3
+Calculated Integral: -5.10072652924699e-19
+Actual Integral: 0.0
+Error:  5.10072652924699e-19
+Grid Cell I: 4 and J: 4
+Calculated Integral: 8.491307393262808e-17
+Actual Integral: 0.0
+Error:  8.491307393262808e-17
+Grid Cell I: 4 and J: 5
+Calculated Integral: 3.3220698365762664e-17
+Actual Integral: 0.0
+Error:  3.3220698365762664e-17
+Grid Cell I: 4 and J: 6
+Calculated Integral: 1.4367843351659863e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  1.569886364578588e-16
+Grid Cell I: 4 and J: 7
+Calculated Integral: 7.055551516567827e-17
+Actual Integral: 0.0
+Error:  7.055551516567827e-17
+Grid Cell I: 4 and J: 8
+Calculated Integral: -8.508784768348349e-17
+Actual Integral: 0.0
+Error:  8.508784768348349e-17
+Grid Cell I: 4 and J: 9
+Calculated Integral: -1.4273070979243727e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  6.221626404172287e-17
+Grid Cell I: 5 and J: 0
+Calculated Integral: -1.3891262407939378e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  3.1959230726262555e-16
+Grid Cell I: 5 and J: 1
+Calculated Integral: 4.9256659948732073e-17
+Actual Integral: 0.0
+Error:  4.9256659948732073e-17
+Grid Cell I: 5 and J: 2
+Calculated Integral: 3.3141646368982196e-17
+Actual Integral: 0.0
+Error:  3.3141646368982196e-17
+Grid Cell I: 5 and J: 3
+Calculated Integral: 9.906812647791571e-17
+Actual Integral: 0.0
+Error:  9.906812647791571e-17
+Grid Cell I: 5 and J: 4
+Calculated Integral: -4.9270245563112644e-17
+Actual Integral: 0.0
+Error:  4.9270245563112644e-17
+Grid Cell I: 5 and J: 5
+Calculated Integral: 1.429157536999049e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  8.072065478848602e-17
+Grid Cell I: 5 and J: 6
+Calculated Integral: -2.9749914689939164e-18
+Actual Integral: 0.0
+Error:  2.9749914689939164e-18
+Grid Cell I: 5 and J: 7
+Calculated Integral: 6.516859737937773e-18
+Actual Integral: 0.0
+Error:  6.516859737937773e-18
+Grid Cell I: 5 and J: 8
+Calculated Integral: -1.4153059963144948e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  5.779475205705542e-17
+Grid Cell I: 5 and J: 9
+Calculated Integral: -1.3999137135969897e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.1171757923210688e-16
+Grid Cell I: 6 and J: 0
+Calculated Integral: 8.775261333554552e-19
+Actual Integral: 0.0
+Error:  8.775261333554552e-19
+Grid Cell I: 6 and J: 1
+Calculated Integral: 3.730756616181566e-17
+Actual Integral: 0.0
+Error:  3.730756616181566e-17
+Grid Cell I: 6 and J: 2
+Calculated Integral: -1.9068220420131597e-17
+Actual Integral: 0.0
+Error:  1.9068220420131597e-17
+Grid Cell I: 6 and J: 3
+Calculated Integral: -3.567249478859434e-18
+Actual Integral: 0.0
+Error:  3.567249478859434e-18
+Grid Cell I: 6 and J: 4
+Calculated Integral: 1.4287105957837706e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  7.6251242635702e-17
+Grid Cell I: 6 and J: 5
+Calculated Integral: -7.270981111812157e-17
+Actual Integral: 0.0
+Error:  7.270981111812157e-17
+Grid Cell I: 6 and J: 6
+Calculated Integral: -1.2069848921459356e-16
+Actual Integral: 0.0
+Error:  1.2069848921459356e-16
+Grid Cell I: 6 and J: 7
+Calculated Integral: -1.4091668709193851e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.191860060081526e-16
+Grid Cell I: 6 and J: 8
+Calculated Integral: -1.4553869177522105e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  3.4301446232010147e-16
+Grid Cell I: 6 and J: 9
+Calculated Integral: 1.408627988558342e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  1.2457482961858446e-16
+Grid Cell I: 7 and J: 0
+Calculated Integral: -1.3161197934437319e-17
+Actual Integral: 0.0
+Error:  1.3161197934437319e-17
+Grid Cell I: 7 and J: 1
+Calculated Integral: -8.502982592659657e-17
+Actual Integral: 0.0
+Error:  8.502982592659657e-17
+Grid Cell I: 7 and J: 2
+Calculated Integral: 5.876958110022671e-17
+Actual Integral: 0.0
+Error:  5.876958110022671e-17
+Grid Cell I: 7 and J: 3
+Calculated Integral: 1.4138620936600239e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  7.223377860176466e-17
+Grid Cell I: 7 and J: 4
+Calculated Integral: 1.12628065172273e-16
+Actual Integral: 0.0
+Error:  1.12628065172273e-16
+Grid Cell I: 7 and J: 5
+Calculated Integral: 4.1201800136817304e-17
+Actual Integral: 0.0
+Error:  4.1201800136817304e-17
+Grid Cell I: 7 and J: 6
+Calculated Integral: -1.3996880640198411e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.1397407500359233e-16
+Grid Cell I: 7 and J: 7
+Calculated Integral: -1.4294284072374763e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  8.342935717275957e-17
+Grid Cell I: 7 and J: 8
+Calculated Integral: 1.4676140077524158e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  4.652853623221542e-16
+Grid Cell I: 7 and J: 9
+Calculated Integral: -2.84672459216484e-14
+Actual Integral: -2.842170943040401e-14
+Error:  4.5536491244391186e-17
+Grid Cell I: 8 and J: 0
+Calculated Integral: -2.6403345748852547e-16
+Actual Integral: 0.0
+Error:  2.6403345748852547e-16
+Grid Cell I: 8 and J: 1
+Calculated Integral: 1.0284970507093254e-16
+Actual Integral: 0.0
+Error:  1.0284970507093254e-16
+Grid Cell I: 8 and J: 2
+Calculated Integral: 1.4209095255716989e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  1.759459485014593e-18
+Grid Cell I: 8 and J: 3
+Calculated Integral: -2.2544734803238865e-17
+Actual Integral: 0.0
+Error:  2.2544734803238865e-17
+Grid Cell I: 8 and J: 4
+Calculated Integral: -6.595771444886352e-17
+Actual Integral: 0.0
+Error:  6.595771444886352e-17
+Grid Cell I: 8 and J: 5
+Calculated Integral: -1.4109568632951703e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.012860822503011e-16
+Grid Cell I: 8 and J: 6
+Calculated Integral: -1.4539561096977086e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  3.287063817750818e-16
+Grid Cell I: 8 and J: 7
+Calculated Integral: 1.459867383230007e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  3.8781911709806494e-16
+Grid Cell I: 8 and J: 8
+Calculated Integral: -2.847521480761617e-14
+Actual Integral: -2.842170943040401e-14
+Error:  5.3505377212159644e-17
+Grid Cell I: 8 and J: 9
+Calculated Integral: 1.3825746103535153e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  3.8510861166685117e-16
+Grid Cell I: 9 and J: 0
+Calculated Integral: 1.9725549750936456e-16
+Actual Integral: 0.0
+Error:  1.9725549750936456e-16
+Grid Cell I: 9 and J: 1
+Calculated Integral: 1.423078064912546e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  1.9925933923455182e-17
+Grid Cell I: 9 and J: 2
+Calculated Integral: -1.9223677435732363e-17
+Actual Integral: 0.0
+Error:  1.9223677435732363e-17
+Grid Cell I: 9 and J: 3
+Calculated Integral: 8.50740304585314e-17
+Actual Integral: 0.0
+Error:  8.50740304585314e-17
+Grid Cell I: 9 and J: 4
+Calculated Integral: -1.43644050596385e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.5355034443649638e-16
+Grid Cell I: 9 and J: 5
+Calculated Integral: -1.4032532256948345e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.7832245825365883e-16
+Grid Cell I: 9 and J: 6
+Calculated Integral: 1.4112700537274175e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  9.815417792782832e-17
+Grid Cell I: 9 and J: 7
+Calculated Integral: -2.841773853994728e-14
+Actual Integral: -2.842170943040401e-14
+Error:  3.97089045672816e-18
+Grid Cell I: 9 and J: 8
+Calculated Integral: 1.4692674160654562e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  4.818194454525582e-16
+Grid Cell I: 9 and J: 9
+INFO:root:Calculation of the new grid
+Calculated Integral: 0.6898054526249223
+Actual Integral: 0.689805452624924
+Error:  1.6653345369377348e-15
+INFO:root:Finish calculation of the new grid
+DEBUG:root:Calculating Integral for Index 0 and index 0
+DEBUG:root:Calculating Integral for Index 0 and index 1
+DEBUG:root:Calculating Integral for Index 0 and index 2
+DEBUG:root:Calculating Integral for Index 0 and index 3
+DEBUG:root:Calculating Integral for Index 0 and index 4
+DEBUG:root:Calculating Integral for Index 0 and index 5
+DEBUG:root:Calculating Integral for Index 0 and index 6
+DEBUG:root:Calculating Integral for Index 0 and index 7
+DEBUG:root:Calculating Integral for Index 0 and index 8
+DEBUG:root:Calculating Integral for Index 0 and index 9
+DEBUG:root:Calculating Integral for Index 1 and index 0
+DEBUG:root:Calculating Integral for Index 1 and index 1
+DEBUG:root:Calculating Integral for Index 1 and index 2
+DEBUG:root:Calculating Integral for Index 1 and index 3
+DEBUG:root:Calculating Integral for Index 1 and index 4
+DEBUG:root:Calculating Integral for Index 1 and index 5
+DEBUG:root:Calculating Integral for Index 1 and index 6
+DEBUG:root:Calculating Integral for Index 1 and index 7
+DEBUG:root:Calculating Integral for Index 1 and index 8
+DEBUG:root:Calculating Integral for Index 1 and index 9
+DEBUG:root:Calculating Integral for Index 2 and index 0
+DEBUG:root:Calculating Integral for Index 2 and index 1
+DEBUG:root:Calculating Integral for Index 2 and index 2
+DEBUG:root:Calculating Integral for Index 2 and index 3
+DEBUG:root:Calculating Integral for Index 2 and index 4
+DEBUG:root:Calculating Integral for Index 2 and index 5
+DEBUG:root:Calculating Integral for Index 2 and index 6
+DEBUG:root:Calculating Integral for Index 2 and index 7
+DEBUG:root:Calculating Integral for Index 2 and index 8
+DEBUG:root:Calculating Integral for Index 2 and index 9
+DEBUG:root:Calculating Integral for Index 3 and index 0
+DEBUG:root:Calculating Integral for Index 3 and index 1
+DEBUG:root:Calculating Integral for Index 3 and index 2
+DEBUG:root:Calculating Integral for Index 3 and index 3
+DEBUG:root:Calculating Integral for Index 3 and index 4
+DEBUG:root:Calculating Integral for Index 3 and index 5
+DEBUG:root:Calculating Integral for Index 3 and index 6
+DEBUG:root:Calculating Integral for Index 3 and index 7
+DEBUG:root:Calculating Integral for Index 3 and index 8
+DEBUG:root:Calculating Integral for Index 3 and index 9
+DEBUG:root:Calculating Integral for Index 4 and index 0
+DEBUG:root:Calculating Integral for Index 4 and index 1
+DEBUG:root:Calculating Integral for Index 4 and index 2
+DEBUG:root:Calculating Integral for Index 4 and index 3
+DEBUG:root:Calculating Integral for Index 4 and index 4
+DEBUG:root:Calculating Integral for Index 4 and index 5
+DEBUG:root:Calculating Integral for Index 4 and index 6
+DEBUG:root:Calculating Integral for Index 4 and index 7
+DEBUG:root:Calculating Integral for Index 4 and index 8
+DEBUG:root:Calculating Integral for Index 4 and index 9
+DEBUG:root:Calculating Integral for Index 5 and index 0
+DEBUG:root:Calculating Integral for Index 5 and index 1
+DEBUG:root:Calculating Integral for Index 5 and index 2
+DEBUG:root:Calculating Integral for Index 5 and index 3
+DEBUG:root:Calculating Integral for Index 5 and index 4
+DEBUG:root:Calculating Integral for Index 5 and index 5
+DEBUG:root:Calculating Integral for Index 5 and index 6
+DEBUG:root:Calculating Integral for Index 5 and index 7
+DEBUG:root:Calculating Integral for Index 5 and index 8
+DEBUG:root:Calculating Integral for Index 5 and index 9
+DEBUG:root:Calculating Integral for Index 6 and index 0
+DEBUG:root:Calculating Integral for Index 6 and index 1
+DEBUG:root:Calculating Integral for Index 6 and index 2
+DEBUG:root:Calculating Integral for Index 6 and index 3
+DEBUG:root:Calculating Integral for Index 6 and index 4
+DEBUG:root:Calculating Integral for Index 6 and index 5
+DEBUG:root:Calculating Integral for Index 6 and index 6
+DEBUG:root:Calculating Integral for Index 6 and index 7
+DEBUG:root:Calculating Integral for Index 6 and index 8
+DEBUG:root:Calculating Integral for Index 6 and index 9
+DEBUG:root:Calculating Integral for Index 7 and index 0
+DEBUG:root:Calculating Integral for Index 7 and index 1
+DEBUG:root:Calculating Integral for Index 7 and index 2
+DEBUG:root:Calculating Integral for Index 7 and index 3
+DEBUG:root:Calculating Integral for Index 7 and index 4
+DEBUG:root:Calculating Integral for Index 7 and index 5
+DEBUG:root:Calculating Integral for Index 7 and index 6
+DEBUG:root:Calculating Integral for Index 7 and index 7
+DEBUG:root:Calculating Integral for Index 7 and index 8
+DEBUG:root:Calculating Integral for Index 7 and index 9
+DEBUG:root:Calculating Integral for Index 8 and index 0
+DEBUG:root:Calculating Integral for Index 8 and index 1
+DEBUG:root:Calculating Integral for Index 8 and index 2
+DEBUG:root:Calculating Integral for Index 8 and index 3
+DEBUG:root:Calculating Integral for Index 8 and index 4
+DEBUG:root:Calculating Integral for Index 8 and index 5
+DEBUG:root:Calculating Integral for Index 8 and index 6
+DEBUG:root:Calculating Integral for Index 8 and index 7
+DEBUG:root:Calculating Integral for Index 8 and index 8
+DEBUG:root:Calculating Integral for Index 8 and index 9
+DEBUG:root:Calculating Integral for Index 9 and index 0
+DEBUG:root:Calculating Integral for Index 9 and index 1
+DEBUG:root:Calculating Integral for Index 9 and index 2
+DEBUG:root:Calculating Integral for Index 9 and index 3
+DEBUG:root:Calculating Integral for Index 9 and index 4
+DEBUG:root:Calculating Integral for Index 9 and index 5
+DEBUG:root:Calculating Integral for Index 9 and index 6
+DEBUG:root:Calculating Integral for Index 9 and index 7
+DEBUG:root:Calculating Integral for Index 9 and index 8
+DEBUG:root:Calculating Integral for Index 9 and index 9
+INFO:root:Calculating the two dimensional integral constrained function.
+INFO:root:Row is provided by: 0
+INFO:root:Row is provided by: 1
+INFO:root:Row is provided by: 2
+INFO:root:Row is provided by: 3
+INFO:root:Row is provided by: 4
+INFO:root:Row is provided by: 5
+INFO:root:Row is provided by: 6
+INFO:root:Row is provided by: 7
+INFO:root:Row is provided by: 8
+INFO:root:Row is provided by: 9
+INFO:root:Row is provided by: 10
+INFO:root:Row is provided by: 11
+INFO:root:Row is provided by: 12
+INFO:root:Row is provided by: 13
+INFO:root:Row is provided by: 14
+INFO:root:Row is provided by: 15
+INFO:root:Row is provided by: 16
+INFO:root:Row is provided by: 17
+INFO:root:Row is provided by: 18
+INFO:root:Row is provided by: 19
+INFO:root:Row is provided by: 20
+INFO:root:Row is provided by: 21
+INFO:root:Row is provided by: 22
+INFO:root:Row is provided by: 23
+INFO:root:Row is provided by: 24
+INFO:root:Row is provided by: 25
+INFO:root:Row is provided by: 26
+INFO:root:Row is provided by: 27
+INFO:root:Row is provided by: 28
+INFO:root:Row is provided by: 29
+INFO:root:Row is provided by: 30
+INFO:root:Row is provided by: 31
+INFO:root:Row is provided by: 32
+INFO:root:Row is provided by: 33
+INFO:root:Row is provided by: 34
+INFO:root:Row is provided by: 35
+INFO:root:Row is provided by: 36
+INFO:root:Row is provided by: 37
+INFO:root:Row is provided by: 38
+INFO:root:Row is provided by: 39
+INFO:root:Row is provided by: 40
+INFO:root:Row is provided by: 41
+INFO:root:Row is provided by: 42
+INFO:root:Row is provided by: 43
+INFO:root:Row is provided by: 44
+INFO:root:Row is provided by: 45
+INFO:root:Row is provided by: 46
+INFO:root:Row is provided by: 47
+INFO:root:Row is provided by: 48
+INFO:root:Row is provided by: 49
+INFO:root:Row is provided by: 50
+INFO:root:Row is provided by: 51
+INFO:root:Row is provided by: 52
+INFO:root:Row is provided by: 53
+INFO:root:Row is provided by: 54
+INFO:root:Row is provided by: 55
+INFO:root:Row is provided by: 56
+INFO:root:Row is provided by: 57
+INFO:root:Row is provided by: 58
+INFO:root:Row is provided by: 59
+INFO:root:Row is provided by: 60
+INFO:root:Row is provided by: 61
+INFO:root:Row is provided by: 62
+INFO:root:Row is provided by: 63
+INFO:root:Row is provided by: 64
+INFO:root:Row is provided by: 65
+INFO:root:Row is provided by: 66
+INFO:root:Row is provided by: 67
+INFO:root:Row is provided by: 68
+INFO:root:Row is provided by: 69
+INFO:root:Row is provided by: 70
+INFO:root:Row is provided by: 71
+INFO:root:Row is provided by: 72
+INFO:root:Row is provided by: 73
+INFO:root:Row is provided by: 74
+INFO:root:Row is provided by: 75
+INFO:root:Row is provided by: 76
+INFO:root:Row is provided by: 77
+INFO:root:Row is provided by: 78
+INFO:root:Row is provided by: 79
+INFO:root:Row is provided by: 80
+INFO:root:Row is provided by: 81
+INFO:root:Row is provided by: 82
+INFO:root:Row is provided by: 83
+INFO:root:Row is provided by: 84
+INFO:root:Row is provided by: 85
+INFO:root:Row is provided by: 86
+INFO:root:Row is provided by: 87
+INFO:root:Row is provided by: 88
+INFO:root:Row is provided by: 89
+INFO:root:Row is provided by: 90
+INFO:root:Row is provided by: 91
+INFO:root:Row is provided by: 92
+INFO:root:Row is provided by: 93
+INFO:root:Row is provided by: 94
+INFO:root:Row is provided by: 95
+INFO:root:Row is provided by: 96
+INFO:root:Row is provided by: 97
+INFO:root:Row is provided by: 98
+INFO:root:Row is provided by: 99
+INFO:root:Solving the linear system.
+Grid Cell I: 0 and J: 0
+Calculated Integral: 0.6486230375428746
+Actual Integral: 0.6486230375428761
+Error:  1.4432899320127035e-15
+Grid Cell I: 0 and J: 1
+Calculated Integral: -1.4078256789507027e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.325979256949772e-16
+Grid Cell I: 0 and J: 2
+Calculated Integral: -7.346865628886368e-15
+Actual Integral: -7.105427357601002e-15
+Error:  2.4143827128536577e-16
+Grid Cell I: 0 and J: 3
+Calculated Integral: 7.175802242990678e-15
+Actual Integral: 7.105427357601002e-15
+Error:  7.037488538967629e-17
+Grid Cell I: 0 and J: 4
+Calculated Integral: -1.440514882670909e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.9429411150708592e-16
+Grid Cell I: 0 and J: 5
+Calculated Integral: -6.9487885192805795e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.5663883832042237e-16
+Grid Cell I: 0 and J: 6
+Calculated Integral: -3.089605614669264e-18
+Actual Integral: 0.0
+Error:  3.089605614669264e-18
+Grid Cell I: 0 and J: 7
+Calculated Integral: -1.4255518471343147e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  4.466375614114364e-17
+Grid Cell I: 0 and J: 8
+Calculated Integral: -1.4383475364553775e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.726206493517716e-16
+Grid Cell I: 0 and J: 9
+Calculated Integral: 4.741251040388185e-17
+Actual Integral: 0.0
+Error:  4.741251040388185e-17
+Grid Cell I: 1 and J: 0
+Calculated Integral: -1.4287182548144983e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  7.632783294297951e-17
+Grid Cell I: 1 and J: 1
+Calculated Integral: -7.189236185534131e-15
+Actual Integral: -7.105427357601002e-15
+Error:  8.380882793312949e-17
+Grid Cell I: 1 and J: 2
+Calculated Integral: 7.43118267658785e-15
+Actual Integral: 7.105427357601002e-15
+Error:  3.2575531898684784e-16
+Grid Cell I: 1 and J: 3
+Calculated Integral: -1.4508862928902695e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.9800821370069147e-16
+Grid Cell I: 1 and J: 4
+Calculated Integral: -6.949988341450365e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.5543901615063666e-16
+Grid Cell I: 1 and J: 5
+Calculated Integral: -6.646508718426885e-17
+Actual Integral: 0.0
+Error:  6.646508718426885e-17
+Grid Cell I: 1 and J: 6
+Calculated Integral: -1.4239729856615666e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.8875141413662285e-17
+Grid Cell I: 1 and J: 7
+Calculated Integral: -1.428751042930491e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  7.665571410290573e-17
+Grid Cell I: 1 and J: 8
+Calculated Integral: -7.011855204401346e-17
+Actual Integral: 0.0
+Error:  7.011855204401346e-17
+Grid Cell I: 1 and J: 9
+Calculated Integral: -1.424781992123445e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  3.696520603244731e-17
+Grid Cell I: 2 and J: 0
+Calculated Integral: -7.153132253190364e-15
+Actual Integral: -7.105427357601002e-15
+Error:  4.7704895589362195e-17
+Grid Cell I: 2 and J: 1
+Calculated Integral: 7.38488046755914e-15
+Actual Integral: 7.105427357601002e-15
+Error:  2.7945310995813877e-16
+Grid Cell I: 2 and J: 2
+Calculated Integral: -1.43052548431076e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  9.440012790559726e-17
+Grid Cell I: 2 and J: 3
+Calculated Integral: -6.9447231846502325e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.6070417295076939e-16
+Grid Cell I: 2 and J: 4
+Calculated Integral: -4.205518583117601e-19
+Actual Integral: 0.0
+Error:  4.205518583117601e-19
+Grid Cell I: 2 and J: 5
+Calculated Integral: -1.4104515075569706e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.0633963963229786e-16
+Grid Cell I: 2 and J: 6
+Calculated Integral: -1.4180757966989944e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  3.00967482120602e-17
+Grid Cell I: 2 and J: 7
+Calculated Integral: 6.346108483683147e-17
+Actual Integral: 0.0
+Error:  6.346108483683147e-17
+Grid Cell I: 2 and J: 8
+Calculated Integral: -1.418479807592033e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.60566392816736e-17
+Grid Cell I: 2 and J: 9
+Calculated Integral: -2.1345040535428184e-14
+Actual Integral: -2.1316282072803006e-14
+Error:  2.8758462625178005e-17
+Grid Cell I: 3 and J: 0
+Calculated Integral: 7.233309003845667e-15
+Actual Integral: 7.105427357601002e-15
+Error:  1.2788164624466525e-16
+Grid Cell I: 3 and J: 1
+Calculated Integral: -1.4391564112301025e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.8070939709902145e-16
+Grid Cell I: 3 and J: 2
+Calculated Integral: -7.0286505971959776e-15
+Actual Integral: -7.105427357601002e-15
+Error:  7.677676040502429e-17
+Grid Cell I: 3 and J: 3
+Calculated Integral: -1.9485251797756332e-16
+Actual Integral: 0.0
+Error:  1.9485251797756332e-16
+Grid Cell I: 3 and J: 4
+Calculated Integral: -1.4205282283965365e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  5.572431236639029e-18
+Grid Cell I: 3 and J: 5
+Calculated Integral: -1.4155355078324873e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  5.549963687713109e-17
+Grid Cell I: 3 and J: 6
+Calculated Integral: -1.1870670447401487e-18
+Actual Integral: 0.0
+Error:  1.1870670447401487e-18
+Grid Cell I: 3 and J: 7
+Calculated Integral: -1.4205299317268538e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  5.555397933465337e-18
+Grid Cell I: 3 and J: 8
+Calculated Integral: -2.1308862911218005e-14
+Actual Integral: -2.1316282072803006e-14
+Error:  7.419161585000417e-18
+Grid Cell I: 3 and J: 9
+Calculated Integral: -7.086908676275181e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.8518681325820768e-17
+Grid Cell I: 4 and J: 0
+Calculated Integral: -1.4386536124726124e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.7568140952411992e-16
+Grid Cell I: 4 and J: 1
+Calculated Integral: -7.0744395042586505e-15
+Actual Integral: -7.105427357601002e-15
+Error:  3.0987853342351324e-17
+Grid Cell I: 4 and J: 2
+Calculated Integral: -6.164472856056303e-17
+Actual Integral: 0.0
+Error:  6.164472856056303e-17
+Grid Cell I: 4 and J: 3
+Calculated Integral: -1.4243758345312807e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  3.290363011080374e-17
+Grid Cell I: 4 and J: 4
+Calculated Integral: -1.4071204224236547e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.396504909654566e-16
+Grid Cell I: 4 and J: 5
+Calculated Integral: 8.1104086296424e-17
+Actual Integral: 0.0
+Error:  8.1104086296424e-17
+Grid Cell I: 4 and J: 6
+Calculated Integral: -1.4028272157679689e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.8258255752231513e-16
+Grid Cell I: 4 and J: 7
+Calculated Integral: -2.1312777050467267e-14
+Actual Integral: -2.1316282072803006e-14
+Error:  3.505022335738295e-18
+Grid Cell I: 4 and J: 8
+Calculated Integral: -7.197057687769078e-15
+Actual Integral: -7.105427357601002e-15
+Error:  9.16303301680757e-17
+Grid Cell I: 4 and J: 9
+Calculated Integral: -1.425140726458475e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  4.055254938274688e-17
+Grid Cell I: 5 and J: 0
+Calculated Integral: -6.850975272114021e-15
+Actual Integral: -7.105427357601002e-15
+Error:  2.5445208548698084e-16
+Grid Cell I: 5 and J: 1
+Calculated Integral: 1.805196617188365e-17
+Actual Integral: 0.0
+Error:  1.805196617188365e-17
+Grid Cell I: 5 and J: 2
+Calculated Integral: -1.4154109436966596e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  5.674527823540734e-17
+Grid Cell I: 5 and J: 3
+Calculated Integral: -1.4085759119139535e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.2509559606246824e-16
+Grid Cell I: 5 and J: 4
+Calculated Integral: -4.0269620526029245e-17
+Actual Integral: 0.0
+Error:  4.0269620526029245e-17
+Grid Cell I: 5 and J: 5
+Calculated Integral: -1.4162862117096609e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  4.7992598105394876e-17
+Grid Cell I: 5 and J: 6
+Calculated Integral: -2.1317274954235865e-14
+Actual Integral: -2.1316282072803006e-14
+Error:  9.928814328596502e-19
+Grid Cell I: 5 and J: 7
+Calculated Integral: -7.069926300957443e-15
+Actual Integral: -7.105427357601002e-15
+Error:  3.550105664355905e-17
+Grid Cell I: 5 and J: 8
+Calculated Integral: -1.4170535946912699e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  4.0318768289304696e-17
+Grid Cell I: 5 and J: 9
+Calculated Integral: -1.3944954132399934e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.6590058280206996e-16
+Grid Cell I: 6 and J: 0
+Calculated Integral: -2.1993633991931535e-17
+Actual Integral: 0.0
+Error:  2.1993633991931535e-17
+Grid Cell I: 6 and J: 1
+Calculated Integral: -1.4181661724674884e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.919299052711946e-17
+Grid Cell I: 6 and J: 2
+Calculated Integral: -1.4199283345170004e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.15713700320002e-17
+Grid Cell I: 6 and J: 3
+Calculated Integral: -3.243256067812214e-18
+Actual Integral: 0.0
+Error:  3.243256067812214e-18
+Grid Cell I: 6 and J: 4
+Calculated Integral: -1.4155878054995353e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  5.497666020665056e-17
+Grid Cell I: 6 and J: 5
+Calculated Integral: -2.139526454670735e-14
+Actual Integral: -2.1316282072803006e-14
+Error:  7.898247390434389e-17
+Grid Cell I: 6 and J: 6
+Calculated Integral: -7.269890768650804e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.6446341104980238e-16
+Grid Cell I: 6 and J: 7
+Calculated Integral: -1.3999730906065922e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.1112380913608161e-16
+Grid Cell I: 6 and J: 8
+Calculated Integral: -1.4443334766037208e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.324800508352043e-16
+Grid Cell I: 6 and J: 9
+Calculated Integral: -1.8350121769317163e-16
+Actual Integral: 0.0
+Error:  1.8350121769317163e-16
+Grid Cell I: 7 and J: 0
+Calculated Integral: -1.421016311280057e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  6.916024014331362e-19
+Grid Cell I: 7 and J: 1
+Calculated Integral: -1.4221475026052915e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.0620310850911231e-17
+Grid Cell I: 7 and J: 2
+Calculated Integral: -9.098245584254457e-18
+Actual Integral: 0.0
+Error:  9.098245584254457e-18
+Grid Cell I: 7 and J: 3
+Calculated Integral: -1.4252025611871136e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  4.1170896669132323e-17
+Grid Cell I: 7 and J: 4
+Calculated Integral: -2.127495316478454e-14
+Actual Integral: -2.1316282072803006e-14
+Error:  4.132890801846465e-17
+Grid Cell I: 7 and J: 5
+Calculated Integral: -7.117641996216882e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.2214638615880638e-17
+Grid Cell I: 7 and J: 6
+Calculated Integral: -1.3923185385655498e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.876693295465055e-16
+Grid Cell I: 7 and J: 7
+Calculated Integral: -1.4302212300761064e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  9.135758555905982e-17
+Grid Cell I: 7 and J: 8
+Calculated Integral: 4.5775015722338e-16
+Actual Integral: 0.0
+Error:  4.5775015722338e-16
+Grid Cell I: 7 and J: 9
+Calculated Integral: -1.417746128828945e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  3.3393426912553537e-17
+Grid Cell I: 8 and J: 0
+Calculated Integral: -1.438417576153948e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.733210463374774e-16
+Grid Cell I: 8 and J: 1
+Calculated Integral: 4.7559205922434455e-17
+Actual Integral: 0.0
+Error:  4.7559205922434455e-17
+Grid Cell I: 8 and J: 2
+Calculated Integral: -1.4284324725155396e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  7.347000995339251e-17
+Grid Cell I: 8 and J: 3
+Calculated Integral: -2.131292708117805e-14
+Actual Integral: -2.1316282072803006e-14
+Error:  3.354991624955877e-18
+Grid Cell I: 8 and J: 4
+Calculated Integral: -7.123301870370436e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.7874512769433873e-17
+Grid Cell I: 8 and J: 5
+Calculated Integral: -1.4128210134054875e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  8.264458114712846e-17
+Grid Cell I: 8 and J: 6
+Calculated Integral: -1.4486607985246536e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.75753270044532e-16
+Grid Cell I: 8 and J: 7
+Calculated Integral: 3.4344814318909567e-16
+Actual Integral: 0.0
+Error:  3.4344814318909567e-16
+Grid Cell I: 8 and J: 8
+Calculated Integral: -1.4176864977094583e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  3.3989738107420564e-17
+Grid Cell I: 8 and J: 9
+Calculated Integral: -2.873395965607983e-14
+Actual Integral: -2.842170943040401e-14
+Error:  3.122502256758253e-16
+Grid Cell I: 9 and J: 0
+Calculated Integral: 1.2793447992475023e-16
+Actual Integral: 0.0
+Error:  1.2793447992475023e-16
+Grid Cell I: 9 and J: 1
+Calculated Integral: -1.4207798699737649e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  3.0560154643547105e-18
+Grid Cell I: 9 and J: 2
+Calculated Integral: -2.136226367986118e-14
+Actual Integral: -2.1316282072803006e-14
+Error:  4.598160705817332e-17
+Grid Cell I: 9 and J: 3
+Calculated Integral: -7.105357583261972e-15
+Actual Integral: -7.105427357601002e-15
+Error:  6.977433903007299e-20
+Grid Cell I: 9 and J: 4
+Calculated Integral: -1.4268621091655326e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  5.77663764533224e-17
+Grid Cell I: 9 and J: 5
+Calculated Integral: -1.3966672057167534e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.441826580344697e-16
+Grid Cell I: 9 and J: 6
+Calculated Integral: -1.4118006351655776e-16
+Actual Integral: 0.0
+Error:  1.4118006351655776e-16
+Grid Cell I: 9 and J: 7
+Calculated Integral: -1.423851542312754e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.7660707925536432e-17
+Grid Cell I: 9 and J: 8
+Calculated Integral: -2.793761316038923e-14
+Actual Integral: -2.842170943040401e-14
+Error:  4.840962700147777e-16
+Grid Cell I: 9 and J: 9
+Calculated Integral: 0.6486230375428539
+Actual Integral: 0.6486230375428548
+Error:  8.881784197001252e-16
+INFO:root:Calculation of the new grid
+INFO:root:Finish calculation of the new grid
+DEBUG:root:Calculating Integral for Index 0 and index 0
+DEBUG:root:Calculating Integral for Index 0 and index 1
+DEBUG:root:Calculating Integral for Index 0 and index 2
+DEBUG:root:Calculating Integral for Index 0 and index 3
+DEBUG:root:Calculating Integral for Index 0 and index 4
+DEBUG:root:Calculating Integral for Index 0 and index 5
+DEBUG:root:Calculating Integral for Index 0 and index 6
+DEBUG:root:Calculating Integral for Index 0 and index 7
+DEBUG:root:Calculating Integral for Index 0 and index 8
+DEBUG:root:Calculating Integral for Index 0 and index 9
+DEBUG:root:Calculating Integral for Index 1 and index 0
+DEBUG:root:Calculating Integral for Index 1 and index 1
+DEBUG:root:Calculating Integral for Index 1 and index 2
+DEBUG:root:Calculating Integral for Index 1 and index 3
+DEBUG:root:Calculating Integral for Index 1 and index 4
+DEBUG:root:Calculating Integral for Index 1 and index 5
+DEBUG:root:Calculating Integral for Index 1 and index 6
+DEBUG:root:Calculating Integral for Index 1 and index 7
+DEBUG:root:Calculating Integral for Index 1 and index 8
+DEBUG:root:Calculating Integral for Index 1 and index 9
+DEBUG:root:Calculating Integral for Index 2 and index 0
+DEBUG:root:Calculating Integral for Index 2 and index 1
+DEBUG:root:Calculating Integral for Index 2 and index 2
+DEBUG:root:Calculating Integral for Index 2 and index 3
+DEBUG:root:Calculating Integral for Index 2 and index 4
+DEBUG:root:Calculating Integral for Index 2 and index 5
+DEBUG:root:Calculating Integral for Index 2 and index 6
+DEBUG:root:Calculating Integral for Index 2 and index 7
+DEBUG:root:Calculating Integral for Index 2 and index 8
+DEBUG:root:Calculating Integral for Index 2 and index 9
+DEBUG:root:Calculating Integral for Index 3 and index 0
+DEBUG:root:Calculating Integral for Index 3 and index 1
+DEBUG:root:Calculating Integral for Index 3 and index 2
+DEBUG:root:Calculating Integral for Index 3 and index 3
+DEBUG:root:Calculating Integral for Index 3 and index 4
+DEBUG:root:Calculating Integral for Index 3 and index 5
+DEBUG:root:Calculating Integral for Index 3 and index 6
+DEBUG:root:Calculating Integral for Index 3 and index 7
+DEBUG:root:Calculating Integral for Index 3 and index 8
+DEBUG:root:Calculating Integral for Index 3 and index 9
+DEBUG:root:Calculating Integral for Index 4 and index 0
+DEBUG:root:Calculating Integral for Index 4 and index 1
+DEBUG:root:Calculating Integral for Index 4 and index 2
+DEBUG:root:Calculating Integral for Index 4 and index 3
+DEBUG:root:Calculating Integral for Index 4 and index 4
+DEBUG:root:Calculating Integral for Index 4 and index 5
+DEBUG:root:Calculating Integral for Index 4 and index 6
+DEBUG:root:Calculating Integral for Index 4 and index 7
+DEBUG:root:Calculating Integral for Index 4 and index 8
+DEBUG:root:Calculating Integral for Index 4 and index 9
+DEBUG:root:Calculating Integral for Index 5 and index 0
+DEBUG:root:Calculating Integral for Index 5 and index 1
+DEBUG:root:Calculating Integral for Index 5 and index 2
+DEBUG:root:Calculating Integral for Index 5 and index 3
+DEBUG:root:Calculating Integral for Index 5 and index 4
+DEBUG:root:Calculating Integral for Index 5 and index 5
+DEBUG:root:Calculating Integral for Index 5 and index 6
+DEBUG:root:Calculating Integral for Index 5 and index 7
+DEBUG:root:Calculating Integral for Index 5 and index 8
+DEBUG:root:Calculating Integral for Index 5 and index 9
+DEBUG:root:Calculating Integral for Index 6 and index 0
+DEBUG:root:Calculating Integral for Index 6 and index 1
+DEBUG:root:Calculating Integral for Index 6 and index 2
+DEBUG:root:Calculating Integral for Index 6 and index 3
+DEBUG:root:Calculating Integral for Index 6 and index 4
+DEBUG:root:Calculating Integral for Index 6 and index 5
+DEBUG:root:Calculating Integral for Index 6 and index 6
+DEBUG:root:Calculating Integral for Index 6 and index 7
+DEBUG:root:Calculating Integral for Index 6 and index 8
+DEBUG:root:Calculating Integral for Index 6 and index 9
+DEBUG:root:Calculating Integral for Index 7 and index 0
+DEBUG:root:Calculating Integral for Index 7 and index 1
+DEBUG:root:Calculating Integral for Index 7 and index 2
+DEBUG:root:Calculating Integral for Index 7 and index 3
+DEBUG:root:Calculating Integral for Index 7 and index 4
+DEBUG:root:Calculating Integral for Index 7 and index 5
+DEBUG:root:Calculating Integral for Index 7 and index 6
+DEBUG:root:Calculating Integral for Index 7 and index 7
+DEBUG:root:Calculating Integral for Index 7 and index 8
+DEBUG:root:Calculating Integral for Index 7 and index 9
+DEBUG:root:Calculating Integral for Index 8 and index 0
+DEBUG:root:Calculating Integral for Index 8 and index 1
+DEBUG:root:Calculating Integral for Index 8 and index 2
+DEBUG:root:Calculating Integral for Index 8 and index 3
+DEBUG:root:Calculating Integral for Index 8 and index 4
+DEBUG:root:Calculating Integral for Index 8 and index 5
+DEBUG:root:Calculating Integral for Index 8 and index 6
+DEBUG:root:Calculating Integral for Index 8 and index 7
+DEBUG:root:Calculating Integral for Index 8 and index 8
+DEBUG:root:Calculating Integral for Index 8 and index 9
+DEBUG:root:Calculating Integral for Index 9 and index 0
+DEBUG:root:Calculating Integral for Index 9 and index 1
+DEBUG:root:Calculating Integral for Index 9 and index 2
+DEBUG:root:Calculating Integral for Index 9 and index 3
+DEBUG:root:Calculating Integral for Index 9 and index 4
+DEBUG:root:Calculating Integral for Index 9 and index 5
+DEBUG:root:Calculating Integral for Index 9 and index 6
+DEBUG:root:Calculating Integral for Index 9 and index 7
+DEBUG:root:Calculating Integral for Index 9 and index 8
+DEBUG:root:Calculating Integral for Index 9 and index 9
+INFO:root:Calculating the two dimensional integral constrained function.
+INFO:root:Row is provided by: 0
+INFO:root:Row is provided by: 1
+INFO:root:Row is provided by: 2
+INFO:root:Row is provided by: 3
+INFO:root:Row is provided by: 4
+INFO:root:Row is provided by: 5
+INFO:root:Row is provided by: 6
+INFO:root:Row is provided by: 7
+INFO:root:Row is provided by: 8
+INFO:root:Row is provided by: 9
+INFO:root:Row is provided by: 10
+INFO:root:Row is provided by: 11
+INFO:root:Row is provided by: 12
+INFO:root:Row is provided by: 13
+INFO:root:Row is provided by: 14
+INFO:root:Row is provided by: 15
+INFO:root:Row is provided by: 16
+INFO:root:Row is provided by: 17
+INFO:root:Row is provided by: 18
+INFO:root:Row is provided by: 19
+INFO:root:Row is provided by: 20
+INFO:root:Row is provided by: 21
+INFO:root:Row is provided by: 22
+INFO:root:Row is provided by: 23
+INFO:root:Row is provided by: 24
+INFO:root:Row is provided by: 25
+INFO:root:Row is provided by: 26
+INFO:root:Row is provided by: 27
+INFO:root:Row is provided by: 28
+INFO:root:Row is provided by: 29
+INFO:root:Row is provided by: 30
+INFO:root:Row is provided by: 31
+INFO:root:Row is provided by: 32
+INFO:root:Row is provided by: 33
+INFO:root:Row is provided by: 34
+INFO:root:Row is provided by: 35
+INFO:root:Row is provided by: 36
+INFO:root:Row is provided by: 37
+INFO:root:Row is provided by: 38
+INFO:root:Row is provided by: 39
+INFO:root:Row is provided by: 40
+INFO:root:Row is provided by: 41
+INFO:root:Row is provided by: 42
+INFO:root:Row is provided by: 43
+INFO:root:Row is provided by: 44
+INFO:root:Row is provided by: 45
+INFO:root:Row is provided by: 46
+INFO:root:Row is provided by: 47
+INFO:root:Row is provided by: 48
+INFO:root:Row is provided by: 49
+INFO:root:Row is provided by: 50
+INFO:root:Row is provided by: 51
+INFO:root:Row is provided by: 52
+INFO:root:Row is provided by: 53
+INFO:root:Row is provided by: 54
+INFO:root:Row is provided by: 55
+INFO:root:Row is provided by: 56
+INFO:root:Row is provided by: 57
+INFO:root:Row is provided by: 58
+INFO:root:Row is provided by: 59
+INFO:root:Row is provided by: 60
+INFO:root:Row is provided by: 61
+INFO:root:Row is provided by: 62
+INFO:root:Row is provided by: 63
+INFO:root:Row is provided by: 64
+INFO:root:Row is provided by: 65
+INFO:root:Row is provided by: 66
+INFO:root:Row is provided by: 67
+INFO:root:Row is provided by: 68
+INFO:root:Row is provided by: 69
+INFO:root:Row is provided by: 70
+INFO:root:Row is provided by: 71
+INFO:root:Row is provided by: 72
+INFO:root:Row is provided by: 73
+INFO:root:Row is provided by: 74
+INFO:root:Row is provided by: 75
+INFO:root:Row is provided by: 76
+INFO:root:Row is provided by: 77
+INFO:root:Row is provided by: 78
+INFO:root:Row is provided by: 79
+INFO:root:Row is provided by: 80
+INFO:root:Row is provided by: 81
+INFO:root:Row is provided by: 82
+INFO:root:Row is provided by: 83
+INFO:root:Row is provided by: 84
+INFO:root:Row is provided by: 85
+INFO:root:Row is provided by: 86
+INFO:root:Row is provided by: 87
+INFO:root:Row is provided by: 88
+INFO:root:Row is provided by: 89
+INFO:root:Row is provided by: 90
+INFO:root:Row is provided by: 91
+INFO:root:Row is provided by: 92
+INFO:root:Row is provided by: 93
+INFO:root:Row is provided by: 94
+INFO:root:Row is provided by: 95
+INFO:root:Row is provided by: 96
+INFO:root:Row is provided by: 97
+INFO:root:Row is provided by: 98
+INFO:root:Row is provided by: 99
+INFO:root:Solving the linear system.
+Grid Cell I: 0 and J: 0
+Calculated Integral: 0.4015285470503037
+Actual Integral: 0.4015285470503045
+Error:  7.771561172376096e-16
+Grid Cell I: 0 and J: 1
+Calculated Integral: 2.1360788571983536e-14
+Actual Integral: 2.1316282072803006e-14
+Error:  4.450649918052996e-17
+Grid Cell I: 0 and J: 2
+Calculated Integral: -7.287959569602515e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.825322120015127e-16
+Grid Cell I: 0 and J: 3
+Calculated Integral: -7.0725438445226954e-15
+Actual Integral: -7.105427357601002e-15
+Error:  3.288351307830645e-17
+Grid Cell I: 0 and J: 4
+Calculated Integral: -7.229318631631152e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.2389127403015024e-16
+Grid Cell I: 0 and J: 5
+Calculated Integral: 1.0316617775585043e-16
+Actual Integral: 0.0
+Error:  1.0316617775585043e-16
+Grid Cell I: 0 and J: 6
+Calculated Integral: -7.154521334284302e-15
+Actual Integral: -7.105427357601002e-15
+Error:  4.9093976683300044e-17
+Grid Cell I: 0 and J: 7
+Calculated Integral: -7.0991626092788804e-15
+Actual Integral: -7.105427357601002e-15
+Error:  6.264748322121411e-18
+Grid Cell I: 0 and J: 8
+Calculated Integral: -1.0716938450474981e-16
+Actual Integral: 0.0
+Error:  1.0716938450474981e-16
+Grid Cell I: 0 and J: 9
+Calculated Integral: -1.4139139585461755e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  7.171512974024901e-17
+Grid Cell I: 1 and J: 0
+Calculated Integral: 2.1284189688497435e-14
+Actual Integral: 2.1316282072803006e-14
+Error:  3.209238430557093e-17
+Grid Cell I: 1 and J: 1
+Calculated Integral: -7.1041669725754875e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.260385025514399e-18
+Grid Cell I: 1 and J: 2
+Calculated Integral: -6.9103455054529694e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.9508185214803242e-16
+Grid Cell I: 1 and J: 3
+Calculated Integral: -7.277192933809965e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.717655762089633e-16
+Grid Cell I: 1 and J: 4
+Calculated Integral: 3.918183831585261e-17
+Actual Integral: 0.0
+Error:  3.918183831585261e-17
+Grid Cell I: 1 and J: 5
+Calculated Integral: -7.156672586212091e-15
+Actual Integral: -7.105427357601002e-15
+Error:  5.1245228611089154e-17
+Grid Cell I: 1 and J: 6
+Calculated Integral: -7.128195285585842e-15
+Actual Integral: -7.105427357601002e-15
+Error:  2.2767927984840373e-17
+Grid Cell I: 1 and J: 7
+Calculated Integral: -3.192541955328833e-17
+Actual Integral: 0.0
+Error:  3.192541955328833e-17
+Grid Cell I: 1 and J: 8
+Calculated Integral: -1.4209467963448671e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.3867517533328998e-18
+Grid Cell I: 1 and J: 9
+Calculated Integral: 3.4186779146775596e-17
+Actual Integral: 0.0
+Error:  3.4186779146775596e-17
+Grid Cell I: 2 and J: 0
+Calculated Integral: -7.084827516323777e-15
+Actual Integral: -7.105427357601002e-15
+Error:  2.0599841277224584e-17
+Grid Cell I: 2 and J: 1
+Calculated Integral: -6.9271032052814485e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.7832415231955334e-16
+Grid Cell I: 2 and J: 2
+Calculated Integral: -7.135883274252477e-15
+Actual Integral: -7.105427357601002e-15
+Error:  3.045591665147562e-17
+Grid Cell I: 2 and J: 3
+Calculated Integral: 9.094931567848324e-17
+Actual Integral: 0.0
+Error:  9.094931567848324e-17
+Grid Cell I: 2 and J: 4
+Calculated Integral: -7.095298537617735e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.0128819983266923e-17
+Grid Cell I: 2 and J: 5
+Calculated Integral: -7.026967436850665e-15
+Actual Integral: -7.105427357601002e-15
+Error:  7.845992075033699e-17
+Grid Cell I: 2 and J: 6
+Calculated Integral: 3.797361199104336e-18
+Actual Integral: 0.0
+Error:  3.797361199104336e-18
+Grid Cell I: 2 and J: 7
+Calculated Integral: -1.4153291706065361e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  5.756300913664256e-17
+Grid Cell I: 2 and J: 8
+Calculated Integral: 2.2165396391766947e-17
+Actual Integral: 0.0
+Error:  2.2165396391766947e-17
+Grid Cell I: 2 and J: 9
+Calculated Integral: -1.6991057405447638e-17
+Actual Integral: 0.0
+Error:  1.6991057405447638e-17
+Grid Cell I: 3 and J: 0
+Calculated Integral: -7.009095994575665e-15
+Actual Integral: -7.105427357601002e-15
+Error:  9.633136302533707e-17
+Grid Cell I: 3 and J: 1
+Calculated Integral: -7.175317740144849e-15
+Actual Integral: -7.105427357601002e-15
+Error:  6.989038254384683e-17
+Grid Cell I: 3 and J: 2
+Calculated Integral: 7.143367657374416e-17
+Actual Integral: 0.0
+Error:  7.143367657374416e-17
+Grid Cell I: 3 and J: 3
+Calculated Integral: -7.225970416269774e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.205430586687724e-16
+Grid Cell I: 3 and J: 4
+Calculated Integral: -7.0969218365564784e-15
+Actual Integral: -7.105427357601002e-15
+Error:  8.50552104452346e-18
+Grid Cell I: 3 and J: 5
+Calculated Integral: 5.20618213118015e-17
+Actual Integral: 0.0
+Error:  5.20618213118015e-17
+Grid Cell I: 3 and J: 6
+Calculated Integral: -1.4186603897224317e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.4250817977686636e-17
+Grid Cell I: 3 and J: 7
+Calculated Integral: -4.5025743612086644e-17
+Actual Integral: 0.0
+Error:  4.5025743612086644e-17
+Grid Cell I: 3 and J: 8
+Calculated Integral: -1.9312351197398048e-19
+Actual Integral: 0.0
+Error:  1.9312351197398048e-19
+Grid Cell I: 3 and J: 9
+Calculated Integral: -7.101573992965705e-15
+Actual Integral: -7.105427357601002e-15
+Error:  3.853364635296626e-18
+Grid Cell I: 4 and J: 0
+Calculated Integral: -7.172566577132167e-15
+Actual Integral: -7.105427357601002e-15
+Error:  6.713921953116486e-17
+Grid Cell I: 4 and J: 1
+Calculated Integral: 7.510810549893332e-17
+Actual Integral: 0.0
+Error:  7.510810549893332e-17
+Grid Cell I: 4 and J: 2
+Calculated Integral: -7.163512641958966e-15
+Actual Integral: -7.105427357601002e-15
+Error:  5.808528435796365e-17
+Grid Cell I: 4 and J: 3
+Calculated Integral: -7.101401198244465e-15
+Actual Integral: -7.105427357601002e-15
+Error:  4.026159356536503e-18
+Grid Cell I: 4 and J: 4
+Calculated Integral: 6.06455485609291e-17
+Actual Integral: 0.0
+Error:  6.06455485609291e-17
+Grid Cell I: 4 and J: 5
+Calculated Integral: -1.4176992257029798e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  3.3862458172205805e-17
+Grid Cell I: 4 and J: 6
+Calculated Integral: 1.0676025766505863e-16
+Actual Integral: 0.0
+Error:  1.0676025766505863e-16
+Grid Cell I: 4 and J: 7
+Calculated Integral: 5.729172036550477e-17
+Actual Integral: 0.0
+Error:  5.729172036550477e-17
+Grid Cell I: 4 and J: 8
+Calculated Integral: -7.152813768802196e-15
+Actual Integral: -7.105427357601002e-15
+Error:  4.738641120119458e-17
+Grid Cell I: 4 and J: 9
+Calculated Integral: -4.6810428797061654e-17
+Actual Integral: 0.0
+Error:  4.6810428797061654e-17
+Grid Cell I: 5 and J: 0
+Calculated Integral: 1.851918954558912e-16
+Actual Integral: 0.0
+Error:  1.851918954558912e-16
+Grid Cell I: 5 and J: 1
+Calculated Integral: -7.079811387210137e-15
+Actual Integral: -7.105427357601002e-15
+Error:  2.561597039086455e-17
+Grid Cell I: 5 and J: 2
+Calculated Integral: -7.075543717584515e-15
+Actual Integral: -7.105427357601002e-15
+Error:  2.9883640016486936e-17
+Grid Cell I: 5 and J: 3
+Calculated Integral: 4.914276048710597e-17
+Actual Integral: 0.0
+Error:  4.914276048710597e-17
+Grid Cell I: 5 and J: 4
+Calculated Integral: -1.4187459718138399e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.3394997063604572e-17
+Grid Cell I: 5 and J: 5
+Calculated Integral: 4.2824180594888105e-17
+Actual Integral: 0.0
+Error:  4.2824180594888105e-17
+Grid Cell I: 5 and J: 6
+Calculated Integral: 1.694817636249289e-17
+Actual Integral: 0.0
+Error:  1.694817636249289e-17
+Grid Cell I: 5 and J: 7
+Calculated Integral: -7.117503506330006e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.207614872900456e-17
+Grid Cell I: 5 and J: 8
+Calculated Integral: 1.818410331165532e-17
+Actual Integral: 0.0
+Error:  1.818410331165532e-17
+Grid Cell I: 5 and J: 9
+Calculated Integral: 1.619662520421783e-16
+Actual Integral: 0.0
+Error:  1.619662520421783e-16
+Grid Cell I: 6 and J: 0
+Calculated Integral: -7.135659869312639e-15
+Actual Integral: -7.105427357601002e-15
+Error:  3.02325117116373e-17
+Grid Cell I: 6 and J: 1
+Calculated Integral: -7.111311271969104e-15
+Actual Integral: -7.105427357601002e-15
+Error:  5.883914368101997e-18
+Grid Cell I: 6 and J: 2
+Calculated Integral: 4.171478446549819e-18
+Actual Integral: 0.0
+Error:  4.171478446549819e-18
+Grid Cell I: 6 and J: 3
+Calculated Integral: -1.4200892287562036e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  9.962427639968207e-18
+Grid Cell I: 6 and J: 4
+Calculated Integral: 2.7873690389656585e-17
+Actual Integral: 0.0
+Error:  2.7873690389656585e-17
+Grid Cell I: 6 and J: 5
+Calculated Integral: -9.015865012689076e-18
+Actual Integral: 0.0
+Error:  9.015865012689076e-18
+Grid Cell I: 6 and J: 6
+Calculated Integral: -7.187382295110388e-15
+Actual Integral: -7.105427357601002e-15
+Error:  8.195493750938585e-17
+Grid Cell I: 6 and J: 7
+Calculated Integral: 1.190987616145854e-16
+Actual Integral: 0.0
+Error:  1.190987616145854e-16
+Grid Cell I: 6 and J: 8
+Calculated Integral: -1.9409929392921743e-16
+Actual Integral: 0.0
+Error:  1.9409929392921743e-16
+Grid Cell I: 6 and J: 9
+Calculated Integral: -7.234555836344025e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.2912847874302358e-16
+Grid Cell I: 7 and J: 0
+Calculated Integral: -7.101380445937258e-15
+Actual Integral: -7.105427357601002e-15
+Error:  4.0469116637442334e-18
+Grid Cell I: 7 and J: 1
+Calculated Integral: -4.59095033785383e-17
+Actual Integral: 0.0
+Error:  4.59095033785383e-17
+Grid Cell I: 7 and J: 2
+Calculated Integral: -1.4174768411731451e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  3.608630347055257e-17
+Grid Cell I: 7 and J: 3
+Calculated Integral: -4.6738206003418424e-17
+Actual Integral: 0.0
+Error:  4.6738206003418424e-17
+Grid Cell I: 7 and J: 4
+Calculated Integral: 5.128795083536629e-17
+Actual Integral: 0.0
+Error:  5.128795083536629e-17
+Grid Cell I: 7 and J: 5
+Calculated Integral: -7.102928610406602e-15
+Actual Integral: -7.105427357601002e-15
+Error:  2.498747194400186e-18
+Grid Cell I: 7 and J: 6
+Calculated Integral: 1.6445229374236967e-16
+Actual Integral: 0.0
+Error:  1.6445229374236967e-16
+Grid Cell I: 7 and J: 7
+Calculated Integral: -8.437803407368438e-17
+Actual Integral: 0.0
+Error:  8.437803407368438e-17
+Grid Cell I: 7 and J: 8
+Calculated Integral: -6.807488600601985e-15
+Actual Integral: -7.105427357601002e-15
+Error:  2.979387569990166e-16
+Grid Cell I: 7 and J: 9
+Calculated Integral: -1.4193507480442236e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  1.734723475976807e-17
+Grid Cell I: 8 and J: 0
+Calculated Integral: -1.5144716162846395e-16
+Actual Integral: 0.0
+Error:  1.5144716162846395e-16
+Grid Cell I: 8 and J: 1
+Calculated Integral: -1.4179673685408119e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  3.118102979388451e-17
+Grid Cell I: 8 and J: 2
+Calculated Integral: -1.7877689142986077e-19
+Actual Integral: 0.0
+Error:  1.7877689142986077e-19
+Grid Cell I: 8 and J: 3
+Calculated Integral: 2.6965532103857067e-17
+Actual Integral: 0.0
+Error:  2.6965532103857067e-17
+Grid Cell I: 8 and J: 4
+Calculated Integral: -7.13506901089237e-15
+Actual Integral: -7.105427357601002e-15
+Error:  2.9641653291368223e-17
+Grid Cell I: 8 and J: 5
+Calculated Integral: 4.141588771423583e-17
+Actual Integral: 0.0
+Error:  4.141588771423583e-17
+Grid Cell I: 8 and J: 6
+Calculated Integral: -1.7646915016506642e-16
+Actual Integral: 0.0
+Error:  1.7646915016506642e-16
+Grid Cell I: 8 and J: 7
+Calculated Integral: -6.868529182912919e-15
+Actual Integral: -7.105427357601002e-15
+Error:  2.368981746880827e-16
+Grid Cell I: 8 and J: 8
+Calculated Integral: -1.4238190162475794e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.733544727379078e-17
+Grid Cell I: 8 and J: 9
+Calculated Integral: 1.402784138848645e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  1.8301332671555315e-16
+Grid Cell I: 9 and J: 0
+Calculated Integral: -1.41204357744974e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  9.041894070460404e-17
+Grid Cell I: 9 and J: 1
+Calculated Integral: 1.438559398586076e-17
+Actual Integral: 0.0
+Error:  1.438559398586076e-17
+Grid Cell I: 9 and J: 2
+Calculated Integral: -1.0556677500748752e-18
+Actual Integral: 0.0
+Error:  1.0556677500748752e-18
+Grid Cell I: 9 and J: 3
+Calculated Integral: -7.071657424543394e-15
+Actual Integral: -7.105427357601002e-15
+Error:  3.376993305760807e-17
+Grid Cell I: 9 and J: 4
+Calculated Integral: -8.058978509620793e-17
+Actual Integral: 0.0
+Error:  8.058978509620793e-17
+Grid Cell I: 9 and J: 5
+Calculated Integral: 1.3455668938550276e-16
+Actual Integral: 0.0
+Error:  1.3455668938550276e-16
+Grid Cell I: 9 and J: 6
+Calculated Integral: -7.207383019396107e-15
+Actual Integral: -7.105427357601002e-15
+Error:  1.0195566179510562e-16
+Grid Cell I: 9 and J: 7
+Calculated Integral: -1.418269934003527e-14
+Actual Integral: -1.4210854715202004e-14
+Error:  2.8155375166732943e-17
+Grid Cell I: 9 and J: 8
+Calculated Integral: 1.4516545517734292e-14
+Actual Integral: 1.4210854715202004e-14
+Error:  3.0569080253228798e-16
+Grid Cell I: 9 and J: 9
+INFO:root:Calculation of the new grid
+Calculated Integral: 0.4015285470503392
+Actual Integral: 0.40152854705034
+Error:  8.326672684688674e-16
